@@ -33,15 +33,18 @@ Finite volume methods (FVM) [1][2] were developed to tackle highly turbulent flo
 
 Finite element methods (FEM) [REFS] originally evolved for structural analysis in civil and mechanical engineering, but have since been adapted to computational fluid dynamics problems. Finite elements use what are called basis functions to describe fluid prognostics such as pressure and velocity. These basis functions can be of arbitrary order, and so very high order elements can be used to say, resolve velocity shear in a boundary layer. However, in their original formulation, where these basis functions were continuous across elements, high Reynolds number flows such a coastal problems were not practical due to the instability of the continuous discretisation. In recent developments, discontinuous basis functions have been developed, which, by breaking the continuity of velocity field can impose local momentum continuity. This has made discontinuous FEM suitable for highly turbulent flow; moreover these can be on unstructured grids as FEM naturally adapts to such grids. However, they are currently quite computational expensive to run, as the discontinuity increases the degrees of freedom of any given problem by almost an order of magnitude. 
 
-References
+### References
+
 1. S. Patankar. Numerical Heat Transfer and Fluid Flow. CRC Press, 1980.
 2. H. Versteeg. An Introduction to Computational Fluid Dynamics: The Finite Volume Method. Prentice Hall, 2007.
 
+<!--
 * Finite-difference, finite-element, finite-volume
 * Depth-integrated
 * Sigma layer models - discuss the vertical coordinate system - this can be z-levels, sigma-levels (usually used in coastal and shelf seas), or hybrid coordinate.
 * Hydrostatic, non-hydrostatic
 * Turbulence models (RANS, eg. k-epsilon, k-omega SST, Large Eddy Simulation, Mellor-Yamada, GOTM)
+-->
 
 ### Model diagnostics 
 The model output can be analysed over time and used for forecast guidance and other applications; such as operational modelling for water level and current forecast guidance, ecological and geospatial applications. This can be either in the form of local diagnostics (eg. virtual ADCP) through to writing out the entire simulation state (eg. velocity, pressure, etc.) for the entire domain. For example, analysing water level time series to calculate the average of the high and low water values can be used to determine the tidal datums. These results can be useful to a wide range of maritime community, providing that sufficient accuracy has been demonstrated from the model. The accuracy of the model can be determined by comparing the model output against real measurements of the water-levels and current velocities.
