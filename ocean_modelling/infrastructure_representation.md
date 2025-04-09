@@ -24,8 +24,10 @@ In many circumstances it can be useful to understand the connections between spa
 
 To derive estimates of connectivity, outputs from hydrodynamic models are used to drive a particle tracking model with a defined timeframe, spatial domain and configuration of habitat sites. An example, derived from salmon farm location on the west coast of Scotland, is given in ***FIGURE***. Particles with a defined set of characteristics (in this case, a time period for development of ability to settle, a mortality rate, a maximum lifespan, and a vertical position) are released from the defined habitat sites. Particles may be released in a single event, or continuously over time, in order to account for tidal effects and/or variability in meteorological conditions. Their locations are recorded over time at defined intervals, allowing the generation of density surfaces ***FIGURE connectivity A***. Any particles moving close to a habitat site after they have become able to settle are considered to make a connection between the origin/source site and the site it has passed close to. This can be summarised in a connectivity matrix ***FIGURE connectivity B ***. Connectivity matrices can be analysed in isolation in order to understand network structure (and the role of habitat sites in the overall population), or they can be applied to describe the redistribution of organisms by dispersal in population models.
 
-Figure connectivity A: spread of infective copepodid sea lice particles from salmon aquaculture sites on the west coast of Scotland 
+![Spread of infective copepodid sea lice particles from salmon aquaculture sites on the west coast of Scotland](connectivity_A.jpg "Spread of infective copepodid sea lice particles from salmon aquaculture sites on the west coast of Scotland")
+*Figure connectivity A: spread of infective copepodid sea lice particles from salmon aquaculture sites on the west coast of Scotland.*
 
-Figure connectivity B: Connectivity between salmon aquaculture sites on the west coast of Scotland.
+![Connectivity between salmon aquaculture sites on the west coast of Scotland](connectivity_B.jpg "Connectivity between salmon aquaculture sites on the west coast of Scotland")
+*Figure connectivity B: Connectivity between salmon aquaculture sites on the west coast of Scotland.*
 
 ## Sharing of resources between tidal developments
