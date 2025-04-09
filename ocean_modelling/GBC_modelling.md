@@ -2,7 +2,7 @@
 layout: page
 title: Biogeochemical modelling
 permalink: /BGM-modelling/
-parent: Ocean modelling
+parent: Other models
 nav_order: 5
 ---
 

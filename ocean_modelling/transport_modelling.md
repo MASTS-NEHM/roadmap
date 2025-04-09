@@ -2,7 +2,7 @@
 layout: page
 title: Transport modelling
 permalink: /transport-modelling/
-parent: Ocean modelling
+parent: Other models
 nav_order: 3
 ---
 

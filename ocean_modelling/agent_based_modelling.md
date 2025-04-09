@@ -2,7 +2,7 @@
 layout: page
 title: Agent based modelling
 permalink: /agent-based-modelling/
-parent: Ocean modelling
+parent: Other models
 nav_order: 4
 ---
 

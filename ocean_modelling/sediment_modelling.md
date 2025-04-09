@@ -2,7 +2,7 @@
 layout: page
 title: Sediment modelling
 permalink: /sediment-modelling/
-parent: Ocean modelling
+parent: Other models
 nav_order: 2
 ---
 

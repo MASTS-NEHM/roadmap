@@ -3,7 +3,7 @@ layout: page
 title: Representing Infrastructure
 parent: Ocean modelling
 permalink: /infrastructure_representation/
-nav_order: 6
+nav_order: 2
 ---
 
 # Representation of infrastructure or forcing and illustrative examples

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wave modelling
-parent: Ocean modelling
+parent: Other models
 permalink: /wave_modelling/
 nav_order: 1
 ---
