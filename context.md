@@ -30,7 +30,7 @@ Examples of global factors include climate change and in particular warming, aci
  
 Intensification of direct exploitation (e.g. “over-fishing”), displacement by new infrastructure and pollution can be global, but can at least be alleviated by local management practice.
  
-An important tool of management in Scottish Coastal Waters is marine spatial planning including the designation of Marine Protected Areas ((https://www2.gov.scot/Topics/marine/marine-environment/mpanetwork)[https://www2.gov.scot/Topics/marine/marine-environment/mpanetwork]).
+An important tool of management in Scottish Coastal Waters is marine spatial planning including the designation of Marine Protected Areas ([https://www2.gov.scot/Topics/marine/marine-environment/mpanetwork](https://www2.gov.scot/Topics/marine/marine-environment/mpanetwork)).
 
 
 <!-- 

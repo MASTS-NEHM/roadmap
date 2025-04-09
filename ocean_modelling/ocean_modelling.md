@@ -46,9 +46,6 @@ Finite element methods (FEM) [REFS] originally evolved for structural analysis i
 * Turbulence models (RANS, eg. k-epsilon, k-omega SST, Large Eddy Simulation, Mellor-Yamada, GOTM)
 -->
 
-### Model diagnostics 
-The model output can be analysed over time and used for forecast guidance and other applications; such as operational modelling for water level and current forecast guidance, ecological and geospatial applications. This can be either in the form of local diagnostics (eg. virtual ADCP) through to writing out the entire simulation state (eg. velocity, pressure, etc.) for the entire domain. For example, analysing water level time series to calculate the average of the high and low water values can be used to determine the tidal datums. These results can be useful to a wide range of maritime community, providing that sufficient accuracy has been demonstrated from the model. The accuracy of the model can be determined by comparing the model output against real measurements of the water-levels and current velocities.
-
 ## Other models
 
 In general, model systems are now being developed, in which the core is a 3D baroclinic, hydrodynamic model, but there are also ancillary models, which may be more or less closely coupled with the hydrodynamic model. There are many interaction processes in which contributions from other dynamic models may be affected (either 1-way or 2-way) by processes in other models. Examples include the atmospheric forcing terms for heat or momentum, in which parametrisations of fluxes may include effects of the surface of the ocean, such as SST or waves in the formulation.
